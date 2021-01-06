@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+p,a,h3{
+    font-family: 'Roboto', sans-serif;
+}
+/* Navbar Css */
+.navbar{
+    height: 200px;
+}
+ul{
+    
+    list-style: none;
+    margin-left: 1200px;
+    margin-top:37px;
+
+
+    
+   
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 25px;
+    color: #3C3C3C;
+}
+
+.navbar ul li{
+    float: left;
+
+}
+/*----top-side desgin*/
+.top-side{
+    height: 800px;
+}
+.half-width{
+    width: 42%;
+    float: left;
+    margin-left: 5%;
+    padding: 1%;
+}
+.half-width img{
+    width: 75%;
+}
+.half-width h1{
+    font-size: 80px;
+    color: #363958;
+}
+.orange-text{
+    color: #FF8367;
+}
+.btn{
+    text-decoration: none;
+    padding: 20px 55px;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.padtop{
+    margin-top: 50px;
+}
+/*----mid-side----*/
+.mid-side{
+    height: 800px;
+}
+/*......project....*/
+.project{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height: 800px;
+
+}
+.project h2{
+    font-size: 50px;
+    text-align: center;
+    padding-top:100px ;
+}
+.section-detail img{
+    width: 90%;
+    
+    border-radius: 5%;
+    margin:15px;
+    
+}
+.section-detail{
+    width: 20%;
+    float: left;
+    margin-left: 4%;
+    padding-left:1% ;
+    height: 374px;
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+
+
+}
+.minisection{
+    margin-left: 300px ;
+    margin-top: 150px;
+}
+/*..........myskill....*/
+.skill{
+    height:600px ;
+    
+}
+.myskill{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 1%;
+    margin-top: 50px;
+}
+.myskill img{
+    width: 70%;
+   padding-left: 100px;
+   
+}
+.skill h2{
+    font-size: 50px;
+    text-align: center;
+    padding-top:100px ;
+}
+.myskill h3{
+    font-size: 25px;
+}
+.myskill a{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color: tomato;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    
+}
+
+
+/*........ Footer.......*/
+.footer{
+    height: 500px;
+}
+.inquiry{
+    width: 906px;
+    height: 220px;
+    background-image: url("./image/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin:150px auto;
+   
+    
+    
+}
+.inquiry h3{
+    font-size: 40px;
+    color: white;
+    padding-top: 0;
+    
+
+}
+
+.contain{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    margin-top:100px;
+
+}
+.contain a{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color: tomato;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
